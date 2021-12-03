@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karyanayandi&langs_count=10)](https://github.com/karyanayandi/karyanayandi)
 
-[![karyanayandi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karyanayandi)](https://github.com/karyanayandi/karyanayandi)
+[![karyanayandi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karyanayandi&layout=compact)](https://github.com/karyanayandi/karyanayandi)
 
 <!--
 **karyanayandi/karyanayandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
