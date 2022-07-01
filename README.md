@@ -3,7 +3,7 @@
 - Hi, my name is Karyana Yandi and I am a Fullstack Web Developer at Dafunda.
 
 
-| <a href="https://github.com/karyanayandi/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karyanayandi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=Scheme" alt="Karyana Yandi's github stats" /></a> | <a href="https://github.com/karyanayandi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karyanayandi&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/karyanayandi/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karyanayandi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=scheme" alt="Karyana Yandi's github stats" /></a> | <a href="https://github.com/karyanayandi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karyanayandi&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
