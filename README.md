@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Yandi</h1>
-
+Hi, I'm Yandi
 <br />
-
 I am Technical Lead at Dafunda
 <br />
 Initially, I was a backend developer but circumstances forced me to become a full-stack developer
