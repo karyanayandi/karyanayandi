@@ -2,7 +2,8 @@
 
 <br />
 
-I am Technical Lead at @dafundacom
+I am Technical Lead at Dafunda
+<br />
 Initially, I was a backend developer but circumstances forced me to become a full-stack developer
 
 <hr />
