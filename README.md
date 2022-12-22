@@ -11,11 +11,11 @@ Initially, I was a backend developer but circumstances forced me to become a ful
   
   <hr />
   <p align="left">
-    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=karyanayandi&show_icons=true" alt="karyanayandi" />
+    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=karyanayandi&show_icons=true&count_private=true" alt="karyanayandi" />
   </p>
 
   <p align="left">
-    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karyanayandi&layout=compact&count_private=true" />
+    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karyanayandi&layout=compact&count_private=true" alt="karyanayandi" />
   </p>
 </details>
 
