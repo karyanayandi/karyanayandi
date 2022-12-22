@@ -15,7 +15,7 @@ Initially, I was a backend developer but circumstances forced me to become a ful
   </p>
 
   <p align="left">
-    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karyanayandi&layout=compact&hide=php&langs_count=6" />
+    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karyanayandi&layout=compact&count_private=true" />
   </p>
 </details>
 
