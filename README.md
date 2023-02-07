@@ -1,8 +1,6 @@
 Hi, I'm Yandi
 <br />
-I am Technical Lead at Dafunda
-<br />
-Initially, I was a backend developer but circumstances forced me to become a full-stack developer
+High school graduate, self-taught programmer since 2011 and was worked in the software engineering industry since 2015. have skills in Typescript, Go, Python, and Rust. Especially on website backend development.
 
 <hr />
 
@@ -11,11 +9,11 @@ Initially, I was a backend developer but circumstances forced me to become a ful
   
   <hr />
   <p align="left">
-    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=karyanayandi&show_icons=true&count_private=true" alt="karyanayandi" />
+    <a href="https://github.com/karyanayandi"><img src="https://github-readme-stats.vercel.app/api?username=karyanayandi&show_icons=true&count_private=true" alt="karyanayandi" /></a>
   </p>
 
   <p align="left">
-    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karyanayandi&layout=compact&count_private=true" alt="karyanayandi" />
+    <a href="https://github.com/karyanayandi"><img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karyanayandi&layout=compact&count_private=true" alt="karyanayandi" /></a>
   </p>
 </details>
 
@@ -24,7 +22,16 @@ Initially, I was a backend developer but circumstances forced me to become a ful
   
   <hr />
   <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=karyanayandi&" alt="karyanayandi" />
+    <a href="https://github.com/karyanayandi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karyanayandi&" alt="karyanayandi" /></a>
+  </p>
+</details>
+
+<details>
+  <summary>Wakatime Stats</summary>
+  
+  <hr />
+  <p align="left">
+    <a href="https://wakatime.com/@karyanayandi"><img src="github-readme-stats.vercel.app/api/wakatime?username=karyanayandi&layout=compact&langs_count=10" alt="karyanayandi" /></a>
   </p>
 </details>
 
