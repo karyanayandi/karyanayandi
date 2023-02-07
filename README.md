@@ -1,5 +1,5 @@
 <h3>Hi, I'm Yandi</h3>
-<br />
+
 High school graduate, self-taught programmer since 2011 and was worked in the software engineering industry since 2015. have skills in Typescript, Go, Python, and Rust. Especially on website backend development.
 
 <hr />
