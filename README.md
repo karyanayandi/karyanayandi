@@ -31,7 +31,7 @@ High school graduate, self-taught programmer since 2011 and was worked in the so
   
   <hr />
   <p align="left">
-    <a href="https://wakatime.com/@karyanayandi"><img src="github-readme-stats.vercel.app/api/wakatime?username=karyanayandi&layout=compact&langs_count=10" alt="karyanayandi" /></a>
+    <a href="https://wakatime.com/@karyanayandi"><img src="github-readme-stats.vercel.app/api/wakatime?username=karyanayandi&layout=compact&langs_count=6" alt="karyanayandi" /></a>
   </p>
 </details>
 
