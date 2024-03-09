@@ -9,7 +9,7 @@ High school graduate, self-taught programmer since 2011 and was worked in the so
   
   <hr />
   <p align="left">
-    <a href="https://github.com/karyanayandi"><img src="https://github-readme-stats.vercel.app/api?username=karyanayandi&show_icons=true&count_private=true" alt="karyanayandi" /></a>
+    <a href="https://github.com/karyanayandi"><img src="https://github-readme-stats.vercel.app/api?username=karyanayandi&show_icons=true&count_private=true&rank_icon=github" alt="karyanayandi" /></a>
   </p>
 
   <p align="left">
