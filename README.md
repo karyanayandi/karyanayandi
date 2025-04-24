@@ -1,4 +1,4 @@
 <h3>Hi, I'm Yandi</h3>
 
-High school graduate, self-taught programmer since 2011 and have been working in the software engineering industry since 2018. I do everything TypeScript/JavaScript stuffs.
-
+I'm a passionate full-stack developer with a strong focus on JavaScript technologies, especially Next.js, React, and Node.js. Currently working as a freelancer, I thrive on building scalable, modern web applications.
+I'm always exploring new technologies and enjoy staying at the forefront of the latest innovations in the development world.
