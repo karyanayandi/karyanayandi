@@ -1,4 +1,9 @@
-<h3>Hi, I'm Yandi</h3>
+<h3>Hello, World</h3>
 
-I'm a passionate full-stack developer with a strong focus on JavaScript technologies, especially Next.js, React, and Node.js. Currently working as a freelancer, I thrive on building scalable, modern web applications.
-I'm always exploring new technologies and enjoy staying at the forefront of the latest innovations in the development world.
+I'm Karyana Yandi, but you can call me Yandi or Adi.
+
+I am a freelance full-stack developer on [Fiverr](https://fiverr.com/users/karyanayandi), specializing in headless technologies and AI-powered tools.
+
+I also build [open-source projects](https://github.com/yopem) that provide smart, AI-enhanced alternatives to popular software solutions.
+
+I primarily work with JavaScript or TypeScript, but I also have experience with Lua, Go, Python, and PHP.
