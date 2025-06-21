@@ -6,4 +6,4 @@ I am a freelance full-stack developer on [Fiverr](https://fiverr.com/users/karya
 
 I also build [open-source projects](https://github.com/yopem) that provide smart, AI-enhanced alternatives to popular software solutions.
 
-I primarily work with JavaScript or TypeScript, but I also have experience with Lua, Go, Python, and PHP.
+I primarily work with Go and JavaScript or TypeScript, but I also have experience with Lua, Python, and PHP.
